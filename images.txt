@@ -25,3 +25,4 @@ xhofe/alist:latest
 --platform=linux/arm64 maven:3.9.11
 --platform=linux/amd64 postgres:15
 --platform=linux/arm64 postgres:15
+--platform=linux/amd64 mysql:8.0-debian
