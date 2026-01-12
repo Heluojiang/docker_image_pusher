@@ -9,8 +9,8 @@ xhofe/alist:latest
 --platform=linux/arm64 postgres:18
 --platform=linux/amd64 redis:8.2
 --platform=linux/arm64 redis:8.2
---platform=linux/amd64 mongo:8.2
---platform=linux/arm64 mongo:8.2
+--platform=linux/amd64 mongo:8.0-noble
+--platform=linux/arm64 mongo:8.0-noble
 --platform=linux/amd64 elasticsearch:9.2.1
 --platform=linux/arm64 elasticsearch:9.2.1
 --platform=linux/amd64 apache/kafka:4.1.1
